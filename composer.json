@@ -1,0 +1,19 @@
+{
+    "name": "zrone/util",
+    "description": "工具集",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zrone",
+            "email": "xujining2008@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ConstantUtil\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
