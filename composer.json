@@ -3,6 +3,11 @@
     "description": "工具集",
     "type": "library",
     "license": "MIT",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.1"
+        }
+    },
     "authors": [
         {
             "name": "zrone",
